@@ -1,0 +1,25 @@
+body
+{
+    background-color:burlywood;
+}
+.inicio
+{
+    width: 1200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* margin: 0 auto; */
+}
+
+.inicio__h1
+{
+    font-size: 50px;
+    text-align: center;
+    color: blueviolet;
+}
+
+.inicio__imagen
+{
+    width: 60%;
+}
